@@ -1,0 +1,132 @@
+div.jumbotron.carousel-hero {
+  color: #fff;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 0;
+}
+
+div.jumbotron.hero-nature {
+  background-image: url('../../assets/img/bazar-%20(2).png');
+}
+
+div.jumbotron.hero-photography {
+  background-image: url('../../assets/img/architects-and-worker.jpg');
+}
+
+div.jumbotron.hero-technology {
+  background-image: url('../../assets/img/img_001.jpg');
+}
+
+h1.hero-title, h2.hero-title, h3.hero-title {
+  text-shadow: 0 3px 3px rgba(0,0,0,0.4);
+  color: #fff;
+}
+
+p.hero-subtitle {
+  max-width: 600px;
+  margin: 25px auto;
+  padding: 10px 15px;
+  height: 50px;
+  color: #fff;
+}
+
+.plat {
+  border-radius: 0px;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  box-shadow: 0 0 0 0 #048f83!important;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #016090;
+  border-color: #016090;
+}
+
+.btn.btn-primary {
+  background-color: #048f83!important;
+  border-color: #048f83!important;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  box-shadow: 0 0 0 .2rem rgba(0,123,255,.5);
+}
+
+*:before, *:after {
+  /*box-sizing: inherit;*/
+}
+
+span {
+  font-style: inherit;
+  font-weight: inherit;
+}
+
+.product-details {
+  /*margin-left: 5%;*/
+  /*margin-right: 5%;*/
+  /*margin: auto;*/
+  height: auto;
+}
+
+.table-title {
+  font-size: 20px;
+  color: #707070;
+}
+
+.info-product {
+  font-size: 22px;
+  color: #707070;
+  font-weight: initial;
+}
+
+.product-details-table {
+  border-radius: 20px;
+}
+
+.product-table {
+  border: 1px solid gray;
+  border-radius: 20px;
+  padding: 0;
+  background: #ffffff;
+}
+
+.table-cell {
+  font-size: 16px;
+  color: #707070;
+  font-weight: 600;
+}
+
+.table-cell-left {
+  border-left: 1px solid gray;
+  color: #707070;
+  font-weight: 600;
+}
+
+.img-display {
+}
+
+.img-item {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.2);
+}
+
+.modal-btn {
+  background-color: #a01e1e;
+  font-size: 18px;
+  color: white;
+}
+
+@media (max-width: 576px) {
+  .img-tends-card {
+    height: 155px;
+  }
+}
+
+.product-details-div {
+  background-color: #f2efef;
+  border-radius: 15px;
+}
+

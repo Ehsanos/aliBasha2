@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'neo';
+	src: url(../../assets/fonts/Neo%20Sans%20Arabic%20Regular.ttf) format('truetype');
+	font-weight: 500;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'neo';
+	src: url(../../assets/fonts/NeoSansArabicMedium.ttf) format('truetype');
+	font-weight: 700;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'neo';
+	src: url(../../assets/fonts/NeoSansArabicBold.ttf) format('truetype');
+	font-weight: 900;
+	font-style: normal;
+	font-display: auto;
+}
